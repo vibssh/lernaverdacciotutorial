@@ -1,0 +1,14 @@
+{
+  "name": "root",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "start": "lerna bootstrap",
+    "publish": "lerna publish --registry http://localhost:4873"
+  },
+  "devDependencies": {
+    "lerna": "^3.16.4"
+  }
+}
