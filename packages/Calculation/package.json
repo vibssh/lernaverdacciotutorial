@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@vam/addition": "1.0.0",
-    "@vam/subtraction": "1.0.0"
+    "@vam/addition": "^1.0.0",
+    "@vam/subtraction": "^1.0.0"
   }
 }
